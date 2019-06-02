@@ -1,0 +1,37 @@
+#rubrik1{
+    
+}
+
+#index_image{
+    display:block;
+    margin:0 auto;
+}
+
+#index_text{
+    display:block;
+    width:90%;
+}
+
+#index_button{
+    display:block;
+    margin:0 auto;
+}
+
+#menuicon{
+    width:50px;
+}
+
+#image1{
+    
+}
+
+#menu{
+    background-color:green;
+    width:80vw;
+    height:100vh;
+    position: absolute;
+    top:0;
+    font-size:40px;
+    color:white;
+    left:100vw;
+}
